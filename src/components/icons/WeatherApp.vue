@@ -16,12 +16,8 @@ export default {
 				const response = await fetch(
 					`${this.url_base}weather?q=${this.query}&units=metric&appid=${this.api_key}&lang=ru`
 				);
-				if (!response.ok) {
-					this.setResults({ message: 'Введите запрос корректно.' });
-				} else {
-					const data = await response.json();
-					this.setResults(data);
-				}
+				const data = await response.json();
+				this.setResults(data);
 			}
 		},
 		setResults(response) {
