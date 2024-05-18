@@ -1,5 +1,5 @@
 <script>
-import WeatherApp from './components/icons/WeatherApp.vue';
+import WeatherApp from './components/WeatherApp.vue';
 export default {
 	components: {
 		WeatherApp,

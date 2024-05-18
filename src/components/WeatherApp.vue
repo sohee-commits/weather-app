@@ -161,8 +161,8 @@ main {
 	/* default bg */
 	background: linear-gradient(
 			to bottom,
-			rgba(0, 0, 0, 0.15),
-			rgba(0, 0, 0, 0.45)
+			rgba(0, 0, 0, 0.25),
+			rgba(0, 0, 0, 0.65)
 		),
 		url('src/assets/initial.jpg') center / cover no-repeat;
 
@@ -256,8 +256,8 @@ main {
 main.thunderstorm {
 	background: linear-gradient(
 			to bottom,
-			rgba(0, 0, 0, 0.15),
-			rgba(0, 0, 0, 0.45)
+			rgba(0, 0, 0, 0.25),
+			rgba(0, 0, 0, 0.65)
 		),
 		url('src/assets/thunderstorm.jpg') center / cover no-repeat;
 }
@@ -265,8 +265,8 @@ main.thunderstorm {
 main.drizzle {
 	background: linear-gradient(
 			to bottom,
-			rgba(0, 0, 0, 0.15),
-			rgba(0, 0, 0, 0.45)
+			rgba(0, 0, 0, 0.25),
+			rgba(0, 0, 0, 0.65)
 		),
 		url('src/assets/drizzle.jpg') center / cover no-repeat;
 }
@@ -274,8 +274,8 @@ main.drizzle {
 main.rain {
 	background: linear-gradient(
 			to bottom,
-			rgba(0, 0, 0, 0.15),
-			rgba(0, 0, 0, 0.45)
+			rgba(0, 0, 0, 0.25),
+			rgba(0, 0, 0, 0.65)
 		),
 		url('src/assets/rain.jpg') center / cover no-repeat;
 }
@@ -283,8 +283,8 @@ main.rain {
 main.snow {
 	background: linear-gradient(
 			to bottom,
-			rgba(0, 0, 0, 0.15),
-			rgba(0, 0, 0, 0.45)
+			rgba(0, 0, 0, 0.25),
+			rgba(0, 0, 0, 0.65)
 		),
 		url('src/assets/snow.jpg') center / cover no-repeat;
 }
@@ -292,8 +292,8 @@ main.snow {
 main.mist {
 	background: linear-gradient(
 			to bottom,
-			rgba(0, 0, 0, 0.15),
-			rgba(0, 0, 0, 0.45)
+			rgba(0, 0, 0, 0.25),
+			rgba(0, 0, 0, 0.65)
 		),
 		url('src/assets/mist.jpg') center / cover no-repeat;
 }
@@ -301,8 +301,8 @@ main.mist {
 main.smoke {
 	background: linear-gradient(
 			to bottom,
-			rgba(0, 0, 0, 0.15),
-			rgba(0, 0, 0, 0.45)
+			rgba(0, 0, 0, 0.25),
+			rgba(0, 0, 0, 0.65)
 		),
 		url('src/assets/smoke.jpg') center / cover no-repeat;
 }
@@ -310,8 +310,8 @@ main.smoke {
 main.haze {
 	background: linear-gradient(
 			to bottom,
-			rgba(0, 0, 0, 0.15),
-			rgba(0, 0, 0, 0.45)
+			rgba(0, 0, 0, 0.25),
+			rgba(0, 0, 0, 0.65)
 		),
 		url('src/assets/haze.jpg') center / cover no-repeat;
 }
@@ -319,8 +319,8 @@ main.haze {
 main.dust {
 	background: linear-gradient(
 			to bottom,
-			rgba(0, 0, 0, 0.15),
-			rgba(0, 0, 0, 0.45)
+			rgba(0, 0, 0, 0.25),
+			rgba(0, 0, 0, 0.65)
 		),
 		url('src/assets/dust.jpg') center / cover no-repeat;
 }
@@ -328,8 +328,8 @@ main.dust {
 main.fog {
 	background: linear-gradient(
 			to bottom,
-			rgba(0, 0, 0, 0.15),
-			rgba(0, 0, 0, 0.45)
+			rgba(0, 0, 0, 0.25),
+			rgba(0, 0, 0, 0.65)
 		),
 		url('src/assets/fog.jpg') center / cover no-repeat;
 }
@@ -337,8 +337,8 @@ main.fog {
 main.sand {
 	background: linear-gradient(
 			to bottom,
-			rgba(0, 0, 0, 0.15),
-			rgba(0, 0, 0, 0.45)
+			rgba(0, 0, 0, 0.25),
+			rgba(0, 0, 0, 0.65)
 		),
 		url('src/assets/sand.jpg') center / cover no-repeat;
 }
@@ -346,8 +346,8 @@ main.sand {
 main.ash {
 	background: linear-gradient(
 			to bottom,
-			rgba(0, 0, 0, 0.15),
-			rgba(0, 0, 0, 0.45)
+			rgba(0, 0, 0, 0.25),
+			rgba(0, 0, 0, 0.65)
 		),
 		url('src/assets/ash.jpg') center / cover no-repeat;
 }
@@ -355,8 +355,8 @@ main.ash {
 main.squall {
 	background: linear-gradient(
 			to bottom,
-			rgba(0, 0, 0, 0.15),
-			rgba(0, 0, 0, 0.45)
+			rgba(0, 0, 0, 0.25),
+			rgba(0, 0, 0, 0.65)
 		),
 		url('src/assets/squall.jpg') center / cover no-repeat;
 }
@@ -364,8 +364,8 @@ main.squall {
 main.tornado {
 	background: linear-gradient(
 			to bottom,
-			rgba(0, 0, 0, 0.15),
-			rgba(0, 0, 0, 0.45)
+			rgba(0, 0, 0, 0.25),
+			rgba(0, 0, 0, 0.65)
 		),
 		url('src/assets/tornado.jpg') center / cover no-repeat;
 }
@@ -373,8 +373,8 @@ main.tornado {
 main.clear {
 	background: linear-gradient(
 			to bottom,
-			rgba(0, 0, 0, 0.15),
-			rgba(0, 0, 0, 0.45)
+			rgba(0, 0, 0, 0.25),
+			rgba(0, 0, 0, 0.65)
 		),
 		url('src/assets/clear.jpg') center / cover no-repeat;
 }
@@ -382,8 +382,8 @@ main.clear {
 main.clouds {
 	background: linear-gradient(
 			to bottom,
-			rgba(0, 0, 0, 0.15),
-			rgba(0, 0, 0, 0.45)
+			rgba(0, 0, 0, 0.25),
+			rgba(0, 0, 0, 0.65)
 		),
 		url('src/assets/clouds.jpg') center / cover no-repeat;
 }
